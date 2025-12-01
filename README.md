@@ -6,7 +6,7 @@ A ready-to-run full-stack Personal Finance Tracker with **Spring Boot**, **React
 
 ## Project Structure
 
-- **backend/** — Spring Boot (Java 17) REST API
+- **backend/** — Spring Boot (Java 21) REST API
 - **frontend/** — React (Vite) + Tailwind CSS UI
 - **docker-compose.yml** — Postgres, backend, frontend services
 
